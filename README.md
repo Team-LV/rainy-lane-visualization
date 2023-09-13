@@ -5,8 +5,8 @@ Visualizing road conditions in rainy weather for improved traffic safety using w
 1. [Requirements](#requirements)
 2. [Project Structure](#project-structure)
 3. [Modules](#modules)
-    * [Retinex](#retinex.py)
-    * [Image Processing](#image_processing.py)
+    * Retinex
+    * Image Processing
 4. [Main](#main)
 5. [Usage](#usage)
 6. [Reference](#reference)
