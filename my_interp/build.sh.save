@@ -1,0 +1,5 @@
+# rm -rf build &&
+# rm -rf *.egg-info &&
+# rm -rf dist &&source ~/anaconda3/etc/profile.d/conda.sh
+conda activate lane-det
+python setup.py install
