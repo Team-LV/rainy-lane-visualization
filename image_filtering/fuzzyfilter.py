@@ -35,7 +35,7 @@ def low_func_avg(value):
 def mid_func_avg(value):
 
     if((value>=a)&(value<b)):
-        p=0.0.125*(value-a)
+        p=0.125*(value-a)
     elif((value>=b)&(value<c)):
         p=1
     elif((value>=c)&(value<d)):
