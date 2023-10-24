@@ -21,11 +21,8 @@
 
 ## Demonstration Video
 
-<!--
-<div align="center">
-[![Video Label](https://img.youtube.com/vi/96_i5zxQGfc/0.jpg)](https://youtu.be/96_i5zxQGfc)
-</div>
--->
+[![Video Label](http://img.youtube.com/vi/KXsIZ9Fu6G0/0.jpg)](https://youtu.be/KXsIZ9Fu6G0')
+
 
 ## System Architecture
 
