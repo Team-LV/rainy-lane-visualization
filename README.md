@@ -39,12 +39,6 @@
 │   ├── fuzzyfilter.py
 │   └── homomorphic.py               
 ├── lane_detection             # 차선 검출 및 예측
-│   ├── model
-│   │   ├── model_float32.tflite
-│   │   ├── model_full_integer_quant.tflite
-│   │   ├── model_full_integer_quant_edgetpu.log
-│   │   ├── model_full_integer_quant_edgetpu.tflite
-│   │   └── saved_model.pb                
 │   └── lanenet.py               
 ├── lane_keeping_degree        # 차선 유지 정도 계산 알고리즘
 │   └── lanenet.py               
